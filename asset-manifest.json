@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44eb430b.chunk.css",
+    "main.js": "/static/js/main.5f6e6a84.chunk.js",
+    "main.js.map": "/static/js/main.5f6e6a84.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.566bba4b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.566bba4b.js.map",
+    "static/js/2.f9e9de90.chunk.js": "/static/js/2.f9e9de90.chunk.js",
+    "static/js/2.f9e9de90.chunk.js.map": "/static/js/2.f9e9de90.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e07e98cf08c61d672c005b269d11385c.js": "/precache-manifest.e07e98cf08c61d672c005b269d11385c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.44eb430b.chunk.css.map": "/static/css/main.44eb430b.chunk.css.map",
+    "static/js/2.f9e9de90.chunk.js.LICENSE.txt": "/static/js/2.f9e9de90.chunk.js.LICENSE.txt",
+    "static/media/settle-logo.png": "/static/media/settle-logo.29d40954.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.566bba4b.js",
+    "static/js/2.f9e9de90.chunk.js",
+    "static/css/main.44eb430b.chunk.css",
+    "static/js/main.5f6e6a84.chunk.js"
+  ]
+}
